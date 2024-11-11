@@ -77,7 +77,7 @@ Essendo un progetto didattico, ci sono alcune funzionalità aggiuntive che potre
 
 ## 📚 Risorse Utili
 
-- [Video di Marchetti Design su YouTube](https://www.youtube.com) - Guida originale seguita per sviluppare questo progetto.
+- [Video di Marchetti Design su YouTube](https://www.youtube.com/watch?v=COcyWGj6BJ8) - Guida originale seguita per sviluppare questo progetto.
 - [Guida all'Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 - [CSS Animations su MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
 - [Video di Sfondo in HTML5](https://css-tricks.com/full-page-background-video-styles/)
