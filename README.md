@@ -1,23 +1,17 @@
-
-
-
-
 # ⌚ Apple Watch Animations
 
-![image](https://github.com/user-attachments/assets/b50b55bd-365a-4a08-a077-68085c0b6155)
-
-**Apple Watch Animations** è un progetto in cui ho replicato le animazioni presenti sulla pagina ufficiale di [Apple Watch Ultra](https://www.apple.com/it/apple-watch-ultra/) utilizzando HTML, CSS e JavaScript. Mi sono ispirato alla guida di **Marchetti Design** su YouTube, che mostra come ricreare le animazioni sofisticate di Apple. Ho applicato tecniche avanzate per ottenere transizioni fluide e animazioni che si attivano durante lo scroll della pagina, simulando effetti di fade-in sopra un video di sfondo.
+**Apple Watch Animations** è un progetto in cui ho replicato le animazioni presenti sulla pagina ufficiale di [Apple Watch Ultra](https://www.apple.com/it/apple-watch-ultra/) utilizzando HTML, CSS e JavaScript. Questo progetto è stato ispirato dal video tutorial di **Marchetti Design**, [Come fare Animazioni Javascript Fade-in allo Scroll (Stile Apple)](https://www.youtube.com/watch?v=VideoURL), che spiega come creare animazioni di tipo fade-in basate sullo scroll.
 
 ![image](https://github.com/user-attachments/assets/0d05ad2d-4244-47d4-8a0e-de06488528a9)
 
 ## 🎯 Obiettivo del Progetto
 
-L'obiettivo principale di questo progetto è stato esplorare tecniche avanzate di animazione e scrolling, seguendo la guida di **Marchetti Design**. In particolare:
-- Ho imparato a usare l'API **Intersection Observer** di JavaScript per monitorare l'ingresso degli elementi nella viewport e attivare animazioni dinamiche.
-- Ho creato effetti di **fade-in** aggiungendo classi CSS agli elementi durante lo scroll.
-- Ho integrato un video di sfondo responsivo per migliorare l'estetica e l'interattività.
+L'obiettivo principale di questo progetto è stato esplorare tecniche avanzate di animazione e scrolling per simulare effetti visivi professionali simili a quelli del sito Apple. In particolare:
+- Ho utilizzato l'API **Intersection Observer** di JavaScript, come spiegato nel video di Marchetti Design, per monitorare quando gli elementi entrano nella viewport e aggiungere classi CSS per attivare le animazioni.
+- Ho creato effetti di **fade-in** su immagini e testo al loro ingresso nello schermo.
+- Ho integrato un video di sfondo responsivo per dare maggiore impatto visivo alla pagina.
 
-  ![image](https://github.com/user-attachments/assets/98b93f7e-84d2-4090-8854-c907edd8dc03)
+    ![image](https://github.com/user-attachments/assets/98b93f7e-84d2-4090-8854-c907edd8dc03)
 
 ## 📂 Struttura del Progetto
 
@@ -46,7 +40,7 @@ apple-watch-animations/
 
 ## 🚀 Funzionalità Principali
 
-- **Animazioni al Scroll**: Grazie all'Intersection Observer, vengono aggiunte classi CSS agli elementi HTML quando entrano nella viewport, consentendo animazioni sincronizzate con lo scroll.
+- **Animazioni al Scroll**: Grazie all'Intersection Observer, gli elementi HTML aggiungono classi CSS al loro ingresso nella viewport, permettendo animazioni sincronizzate con lo scroll.
 - **Effetti di Fade-in**: Le immagini e i testi appaiono gradualmente quando sono visibili nella pagina, per un effetto elegante e professionale.
 - **Video di Sfondo**: Il video è responsivo e mantiene un aspetto accattivante su diverse dimensioni di schermo, migliorando l’esperienza utente.
 
@@ -77,7 +71,7 @@ Essendo un progetto didattico, ci sono alcune funzionalità aggiuntive che potre
 
 ## 📚 Risorse Utili
 
-- [Video di Marchetti Design su YouTube](https://www.youtube.com/watch?v=COcyWGj6BJ8) - Guida originale seguita per sviluppare questo progetto.
+- [Video di Marchetti Design - Come fare Animazioni Javascript Fade-in allo Scroll (Stile Apple)](https://www.youtube.com/watch?v=COcyWGj6BJ8)
 - [Guida all'Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 - [CSS Animations su MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
 - [Video di Sfondo in HTML5](https://css-tricks.com/full-page-background-video-styles/)
@@ -85,5 +79,6 @@ Essendo un progetto didattico, ci sono alcune funzionalità aggiuntive che potre
 ---
 
 Grazie per aver esplorato **Apple Watch Animations**! Questo progetto, ispirato al video di Marchetti Design, mi ha permesso di esercitarmi con animazioni avanzate e gestione di contenuti visivi dinamici con JavaScript.
-tra come hai seguito e applicato concetti di animazione web avanzata, valorizzando anche la guida seguita per sviluppare il progetto.
+
+
 
