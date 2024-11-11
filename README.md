@@ -1,6 +1,6 @@
 # ⌚ Apple Watch Animations
 
-**Apple Watch Animations** è un progetto in cui ho replicato le animazioni presenti sulla pagina ufficiale di [Apple Watch Ultra](https://www.apple.com/it/apple-watch-ultra/) utilizzando HTML, CSS e JavaScript. Questo progetto è stato ispirato dal video tutorial di **Marchetti Design**, [Come fare Animazioni Javascript Fade-in allo Scroll (Stile Apple)](https://www.youtube.com/watch?v=VideoURL), che spiega come creare animazioni di tipo fade-in basate sullo scroll.
+**Apple Watch Animations** è un progetto in cui ho replicato le animazioni presenti sulla pagina ufficiale di [Apple Watch Ultra](https://www.apple.com/it/apple-watch-ultra/) utilizzando HTML, CSS e JavaScript. Questo progetto è stato ispirato dal video tutorial di **Marchetti Design**, [Come fare Animazioni Javascript Fade-in allo Scroll (Stile Apple)](https://www.youtube.com/watch?v=COcyWGj6BJ8), che spiega come creare animazioni di tipo fade-in basate sullo scroll.
 
 ![image](https://github.com/user-attachments/assets/0d05ad2d-4244-47d4-8a0e-de06488528a9)
 
